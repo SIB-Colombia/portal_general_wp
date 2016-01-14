@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: theme3330\n"
+"POT-Creation-Date: 2014-12-26 16:17+0200\n"
+"PO-Revision-Date: 2014-12-26 16:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:76
+msgid "Send"
+msgstr ""
+
+#: ../options.php:379
+msgid "Social"
+msgstr ""
+
+#: ../options.php:383 ../options.php:384
+msgid "Facebook URL"
+msgstr ""
+
+#: ../options.php:390 ../options.php:391
+msgid "Twitter URL"
+msgstr ""
+
+#: ../options.php:397 ../options.php:398
+msgid "Dribble URL"
+msgstr ""
+
+#: ../options.php:404 ../options.php:405
+msgid "Behance URL"
+msgstr ""
+
+#: ../includes/register-plugins.php:108
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/register-plugins.php:109
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/register-plugins.php:110
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/register-plugins.php:111
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/register-plugins.php:122
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/register-plugins.php:123
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/register-plugins.php:124
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../includes/shortcodes/circle-stat.php:20
+#: ../includes/shortcodes/post-cycle.php:17
+#: ../includes/shortcodes/posts-grid.php:23
+#: ../includes/widgets/my-posts-type-widget.php:165
+msgid "Read more"
+msgstr ""
+
+#: ../includes/shortcodes/post-cycle.php:205
+msgid "Client"
+msgstr ""
+
+#: ../includes/shortcodes/post-cycle.php:206
+msgid "Date"
+msgstr ""
+
+#: ../includes/shortcodes/post-cycle.php:207
+msgid "Info"
+msgstr ""
+
+#: ../includes/shortcodes/post-cycle.php:208
+msgid "Launch Project"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:7
+msgid "Show custom posts"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:9
+msgid "Cherry - Advanced Cycle"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:177
+msgid "View all"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:230
+msgid "Title"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:237
+msgid "Posts type"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:254
+msgid "Number of posts to show"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:261
+msgid "Sort by"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:275
+msgid "Reverse sort order (ascending)"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:281
+msgid "Show number of comments"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:288
+msgid "Show meta"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:294
+msgid "Container class"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:295
+msgid "default: \"featured_custom_posts\""
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:300
+msgid "Post title"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:304
+msgid "Show post title"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:310
+msgid "Date as title "
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:317
+msgid "Excerpt"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:321
+msgid "Show post excerpt"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:326
+msgid "Excerpt length (words)"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:333
+msgid "Excerpt as link"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:340
+msgid "More link"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:344
+msgid "Show \"More link"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:350
+#: ../includes/widgets/my-posts-type-widget.php:397
+msgid "Link Text"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:351
+msgid "default: \"Read more\""
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:356
+msgid "Link class"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:357
+msgid "default: \"link\""
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:362
+msgid "Thumbnail dimensions"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:367
+msgid "Show post thumbnail"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:372
+msgid "Width"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:377
+msgid "Height"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:383
+msgid "Thumbnail as link"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:388
+msgid "Link to all posts"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:392
+msgid "Show global link to all posts"
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:398
+msgid "default: \"View all\""
+msgstr ""
+
+#: ../includes/widgets/my-posts-type-widget.php:403
+msgid "Link URL"
+msgstr ""
+
+#: ../static/static-footer-nav.php:4
+msgid "Navigation"
+msgstr ""
+
+#: ../static/static-social.php:2
+msgid "Follow Us"
+msgstr ""
